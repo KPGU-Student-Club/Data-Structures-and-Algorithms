@@ -15,3 +15,5 @@
 |    10       |        Write a program to implement sorting algorithms: a. Bubble b. Merge c. Quick       |     [click here](https://github.com/KPGU-Student-Club/Data-Structures-and-Algorithms/tree/main/Practical-10)            |
 |    11       |      Write a program to implement Binary search algorithm.         |        [click here](https://github.com/KPGU-Student-Club/Data-Structures-and-Algorithms/tree/main/Practical-11)         |
 |    12       |          OPE is stnad for Project based on DSA     |  [Homework](#)   |
+
+### Made with ❤️ by [Nishitbaria](https://github.com/Nishitbaria) 
